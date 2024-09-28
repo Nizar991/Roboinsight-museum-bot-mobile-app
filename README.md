@@ -1,4 +1,4 @@
-# RoboInsight Museum Bot App
+# RoboInsight Museum Bot Mobile App
 
 ## Overview
 The **RoboInsight Museum Bot App** is designed to enhance the visitor experience at museums by providing robot-guided tours. The app allows users to book, pay, and manage their tours while also offering features for administrators and technical support teams.

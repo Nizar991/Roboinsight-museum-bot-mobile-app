@@ -27,13 +27,3 @@ This app was developed using **Thunkable**, a powerful drag-and-drop platform fo
 
 ## How to Use
 Download and install the app on your mobile device.
-
-## Future Enhancements
-- Additional user roles and functionalities.
-- Enhanced tracking features for better robot management.
-
-## Contributing
-Feel free to open issues or submit pull requests to suggest changes or improvements to the app.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
